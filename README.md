@@ -10,7 +10,7 @@ Desenvolvimento de um site promocional para o Psicólogo *Ramon Aires dos Reis* 
 - Pietro
 
 
-## Ideas do projeto:
+## Ideias do projeto:
 
 Crição de uma página promocional contendo quem é *Ramon Aires dos Reis*, como é sua forma de trabalho, formas de contato, perguntas mais frequentes.
 
